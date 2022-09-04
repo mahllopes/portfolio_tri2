@@ -1,0 +1,35 @@
+.banner {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    width: 70%;
+    
+    background-color: #ce8097;
+    color: #7C3E51;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+th:hover {
+    background-color: #7C3E51;
+    color: #ce8097;
+
+}
+
+.texto1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1;
+    color: #7C3E51;
+}
+
+.link {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    background-color: #ce8097;
+    color: #7C3E51;
+}
+
